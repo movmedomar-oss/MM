@@ -30,7 +30,7 @@
 
 <div class="overlay"></div>
 
-f1.jpeg.jpeg
+<img id="heroImage" src="images/1.jpg">
 
 <div class="heroContent">
 
